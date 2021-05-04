@@ -1,6 +1,6 @@
 # MiuiHome
 
- MiuiHome自定义-Xposed
+ Hook for MIUI Launcher - Xposed
  
 ### 允许用户自行选择模糊级别及特效
 
