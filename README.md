@@ -1,20 +1,25 @@
 # MiuiHome
 
- Hook for MIUI Launcher - Xposed
+__Hook for MIUI Launcher - Xposed__
  
-### 允许用户自行选择模糊级别及特效
+### 自定义你的 MiuiHome
 
  __涉及：__
- 
+
 - 平滑动画.
-- 动画速度.
 - 文件夹模糊.
-- 水波纹特效.
+- 动画速度调节.
 - 后台模糊级别.
 - 状态栏时钟常显.
-- 强制设备为高端设备.
+- 后台卡片圆角大小调节.
+- 下载时图标的水波纹特效.
+- 后台卡片图标文字间距调节.
+- 强制为高端设备(默认启用).
 
-### 激活模块后重启系统桌面，打开桌面设置即可看见模块设置弹窗
+### 激活模块后重启系统桌面,再打开桌面设置即可看见模块设置弹窗.
+
+![MiuiHome1](https://i.loli.net/2021/05/06/xNM5aTQsVJIifRp.jpg)
+![MiuiHome2](https://i.loli.net/2021/05/06/uNGSjqotQ8n5XaL.jpg)
 
 ### 原仓库：[YuKongA/MiuiHome](https://github.com/YuKongA/MiuiHome)
 
