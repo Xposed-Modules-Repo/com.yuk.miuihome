@@ -1,4 +1,4 @@
-# MiuiHome
+# MiuiHome [![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml)
 
 __Hook for MIUI Launcher - Xposed__
  
@@ -16,10 +16,7 @@ __Hook for MIUI Launcher - Xposed__
 - 后台卡片图标文字间距调节.
 - 强制为高端设备(默认启用).
 
-### 激活模块后重启系统桌面,再打开桌面设置即可看见模块设置弹窗.
-
-![MiuiHome1](https://i.loli.net/2021/05/06/xNM5aTQsVJIifRp.jpg)
-![MiuiHome2](https://i.loli.net/2021/05/06/uNGSjqotQ8n5XaL.jpg)
+### 激活模块后重启系统桌面，再打开桌面设置，点击模块设置选项即可弹出弹窗.
 
 ### 原仓库：[YuKongA/MiuiHome](https://github.com/YuKongA/MiuiHome)
 
@@ -29,3 +26,5 @@ __Hook for MIUI Launcher - Xposed__
 [XposedBridge](https://github.com/rovo89/XposedBridge)
 [LSPosed](https://github.com/LSPosed/LSPosed)
 [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation/)
+
+![1](https://raw.githubusercontent.com/1767523953/MiuiHome/main/Screenshot/1.jpeg)
