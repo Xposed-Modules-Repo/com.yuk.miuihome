@@ -33,7 +33,7 @@ __新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation/)
 
 ### 软件截图
-![Screenshot](https://cdn.jsdelivr.net/gh/YuKongA/MiuiHome-New@main/Screenshot/Screenshot.jpg)
+![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Screenshot/pc1.jpg)
 
 ### License
 [AMTPL v1 + GPL-3.0](LICENSE)
