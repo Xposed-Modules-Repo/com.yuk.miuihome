@@ -1,6 +1,10 @@
 # MiuiHome
 
-__Hook for MIUI Launcher - Xposed__ [![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml)
+![Launcher](https://github.com/1767523953/MiuiHome/blob/main/Pic/Launcher.png)
+
+Hook for MIUI Launcher - Xposed
+
+[![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml)
 
 ## 如何使用
 
@@ -52,7 +56,7 @@ __新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
 ## 软件截图
 
-![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Screenshot/Screenshot.jpg)
+![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Pic/Screenshot.jpg)
 
 ## License
 
