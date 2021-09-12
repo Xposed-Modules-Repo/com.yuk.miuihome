@@ -21,38 +21,42 @@ __新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 ## 模块涉及内容
 
 - [x] 平滑动画.
+- [x] 时钟常显.
+- [x] 搜索框模糊.
 - [x] 后台模糊级别.
 - [x] 手势动画速度.
+- [x] 桌面无限滚动.
 - [x] 后台隐藏状态栏.
-- [x] 水波纹应用下载特性.
-- [x] 文件夹打开背景模糊.
-- [x] 取消后台壁纸压暗效果.
+- [x] 后台卡片文字大小.
 - [x] 应用卡片圆角大小.
-- [x] 后台应用图标与名称间距.
-- [x] 隐藏桌面小部件名称.
-- [x] 允许将安卓小部件移到负一屏.
-- [x] 允许在安卓小部件页显示MIUI小部件.
 - [x] 隐藏桌面应用图标.
 - [x] 隐藏后台应用图标.
 - [x] 隐藏后台清理图标.
+- [x] 隐藏桌面小部件名称.
+- [x] 水波纹应用下载特性.
+- [x] 文件夹打开背景模糊.
+- [x] 打开应用时关闭文件夹.
+- [x] 取消后台壁纸压暗效果.
 - [x] 隐藏后台小窗应用图标.
-- [x] 后台卡片文字大小.
-- [x] 时钟常显.
-- [x] 搜索框模糊.
+- [x] 后台应用图标与名称间距.
 - [x] 强制当前设备为高端设备.
-- [ ] 更多...
+- [x] 允许将安卓小部件移到负一屏.
+- [x] 允许在安卓小部件页显示MIUI小部件.
+- [ ] 更多......
 
 ## Credit
 
-[FC](https://github.com/ejiaogl/FuckCoolapk)
+- [FC](https://github.com/ejiaogl/FuckCoolapk)
 
-[BiliRoaming](https://github.com/yujincheng08/BiliRoaming/blob/master/LICENSE)
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming/blob/master/LICENSE)
 
-[XposedBridge](https://github.com/rovo89/XposedBridge)
+- [XposedBridge](https://github.com/rovo89/XposedBridge)
 
-[LSPosed](https://github.com/LSPosed/LSPosed)
+- [LSPosed](https://github.com/LSPosed/LSPosed)
 
-[androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation/)
+- [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation/)
+
+- [CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer/)
 
 ## 软件截图
 
