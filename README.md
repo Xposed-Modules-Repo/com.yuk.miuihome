@@ -58,6 +58,8 @@ __新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
 - [CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer/)
 
+- [AppCenter](https://github.com/microsoft/appcenter)
+
 ## 软件截图
 
 ![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Pic/Screenshot.png)
