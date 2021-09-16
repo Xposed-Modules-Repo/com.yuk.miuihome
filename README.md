@@ -24,29 +24,29 @@ __Now：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
 ## Module Features (Google Translate)
 
--[x] Smooth animation.
--[x] Always show status bar clock.
--[x] Search box is blurred.
--[x] Task view blur level.
--[x] Gesture animation speed.
--[x] Infinite scrolling on the desktop.
--[x] Hide the status bar in the Task view.
--[x] Task view card text size.
--[x] The rounded corner size of the card is applied.
--[x] Hide desktop application icons.
--[x] Hide Task view application icons.
--[x] Hide the Task view cleaning icon.
--[x] Hide the name of the desktop widget.
--[x] Water ripple application download characteristics.
--[x] Folder opened with blurred Task view.
--[x] Close the folder when opening the app.
--[x] Cancel the dimming effect of Task view wallpaper.
--[x] Hide the application icons in the Task view windows.
--[x] The distance between the Task view application icon and the name.
--[x] Force the current device to be a high-end device.
--[x] Allow Android widgets to be moved to a negative screen.
--[x] Allow MIUI widgets to be displayed on the Android widget page.
--[ ] More...
+- [x] Smooth animation.
+- [x] Always show status bar clock.
+- [x] Search box is blurred.
+- [x] Task view blur level.
+- [x] Gesture animation speed.
+- [x] Infinite scrolling on the desktop.
+- [x] Hide the status bar in the Task view.
+- [x] Task view card text size.
+- [x] The rounded corner size of the card is applied.
+- [x] Hide desktop application icons.
+- [x] Hide Task view application icons.
+- [x] Hide the Task view cleaning icon.
+- [x] Hide the name of the desktop widget.
+- [x] Water ripple application download characteristics.
+- [x] Folder opened with blurred Task view.
+- [x] Close the folder when opening the app.
+- [x] Cancel the dimming effect of Task view wallpaper.
+- [x] Hide the application icons in the Task view windows.
+- [x] The distance between the Task view application icon and the name.
+- [x] Force the current device to be a high-end device.
+- [x] Allow Android widgets to be moved to a negative screen.
+- [x] Allow MIUI widgets to be displayed on the Android widget page.
+- [ ] More...
 
 ## Credit
 
