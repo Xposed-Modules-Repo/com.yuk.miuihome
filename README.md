@@ -1,48 +1,52 @@
 # MiuiHome
 
+__English 丨 [简体中文](https://github.com/1767523953/MiuiHome/blob/main/README_zh.md)__
+
 ![Launcher](https://github.com/1767523953/MiuiHome/blob/main/Pic/Launcher.png)
 
 Hook for MIUI Launcher - Xposed
 
 [![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml)
 
-## 如何使用
+ __Feedback bugs or provide comments： [Telegram](https://t.me/MiuiHome_Xposed)__
 
-__激活模块后,请重启一次系统桌面再打开桌面设置,点击"模块设置"选项即可弹出功能弹窗.__
+## How to use
 
-__模块设置不在本软件附带的APP内!!!请到"设置"-"桌面"-点击"模块设置"-打开Dialog弹窗进行设置.__
+__After activating the module, please restart the Miui Launcher once and then open the Miui Launcher settings, Click the "Module Settings" option to pop up the dialog for setting.__
 
-## 前世今生
+__Module settings are not in the APP attached to this software!!! Please go to Settings - Home screen - Where the \"Default launcher\" used to be.__
 
-__原仓库：[YuKongA/MiuiHome](https://github.com/YuKongA/MiuiHome)__
+## Past and present
 
-__新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
+__Old：[YuKongA/MiuiHome](https://github.com/YuKongA/MiuiHome)__
 
-## 模块涉及内容
+__Now：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
-- [x] 平滑动画.
-- [x] 时钟常显.
-- [x] 搜索框模糊.
-- [x] 后台模糊级别.
-- [x] 手势动画速度.
-- [x] 桌面无限滚动.
-- [x] 后台隐藏状态栏.
-- [x] 后台卡片文字大小.
-- [x] 应用卡片圆角大小.
-- [x] 隐藏桌面应用图标.
-- [x] 隐藏后台应用图标.
-- [x] 隐藏后台清理图标.
-- [x] 隐藏桌面小部件名称.
-- [x] 水波纹应用下载特性.
-- [x] 文件夹打开背景模糊.
-- [x] 打开应用时关闭文件夹.
-- [x] 取消后台壁纸压暗效果.
-- [x] 隐藏后台小窗应用图标.
-- [x] 后台应用图标与名称间距.
-- [x] 强制当前设备为高端设备.
-- [x] 允许将安卓小部件移到负一屏.
-- [x] 允许在安卓小部件页显示MIUI小部件.
-- [ ] 更多......
+## Module Features (Google Translate)
+
+-[x] Smooth animation.
+-[x] Always show status bar clock.
+-[x] Search box is blurred.
+-[x] Task view blur level.
+-[x] Gesture animation speed.
+-[x] Infinite scrolling on the desktop.
+-[x] Hide the status bar in the Task view.
+-[x] Task view card text size.
+-[x] The rounded corner size of the card is applied.
+-[x] Hide desktop application icons.
+-[x] Hide Task view application icons.
+-[x] Hide the Task view cleaning icon.
+-[x] Hide the name of the desktop widget.
+-[x] Water ripple application download characteristics.
+-[x] Folder opened with blurred Task view.
+-[x] Close the folder when opening the app.
+-[x] Cancel the dimming effect of Task view wallpaper.
+-[x] Hide the application icons in the Task view windows.
+-[x] The distance between the Task view application icon and the name.
+-[x] Force the current device to be a high-end device.
+-[x] Allow Android widgets to be moved to a negative screen.
+-[x] Allow MIUI widgets to be displayed on the Android widget page.
+-[ ] More...
 
 ## Credit
 
@@ -60,7 +64,7 @@ __新仓库：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
 - [AppCenter](https://github.com/microsoft/appcenter)
 
-## 软件截图
+## Screenshot
 
 ![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Pic/Screenshot.png)
 
