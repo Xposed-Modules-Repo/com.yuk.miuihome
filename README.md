@@ -14,7 +14,7 @@ Hook for MIUI Launcher - Xposed
 
 __After activating the module, please restart the Miui Launcher once and then open the Miui Launcher settings, Click the "Module Settings" option to pop up the dialog for setting.__
 
-__Module settings are not in the APP attached to this software!!! Please go to Settings - Home screen - Where the \"Default launcher\" used to be.__
+__Module settings are not in the APP attached to this software!!! Please go to Settings - Home screen - Where the "Default launcher" used to be.__
 
 ## Past and present
 
@@ -50,19 +50,15 @@ __Now：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
 
 ## Credit
 
-- [FC](https://github.com/ejiaogl/FuckCoolapk)
-
-- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming/blob/master/LICENSE)
-
-- [XposedBridge](https://github.com/rovo89/XposedBridge)
-
-- [LSPosed](https://github.com/LSPosed/LSPosed)
-
-- [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation/)
-
-- [CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer/)
-
+- [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation)
 - [AppCenter](https://github.com/microsoft/appcenter)
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming/blob/master/LICENSE)
+- [CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer)
+- [FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk)
+- [LSPosed](https://github.com/LSPosed/LSPosed)
+- [MiDock](https://github.com/lamprose/MIDock)
+- [MIUIDock](https://github.com/ouhoukyo/MIUIDock)
+- [XposedBridge](https://github.com/rovo89/XposedBridge)
 
 ## Screenshot
 
