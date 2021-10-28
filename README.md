@@ -79,3 +79,7 @@ and if you want to translate it into a new language, please place it in the appr
 ## License
 
 [AMTPL v1 + GPL-3.0](LICENSE)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/1767523953/MiuiHome.svg)](https://starchart.cc/1767523953/MiuiHome)
