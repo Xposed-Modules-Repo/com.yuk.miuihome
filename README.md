@@ -2,11 +2,11 @@
 
 __English 丨 [简体中文](https://github.com/1767523953/MiuiHome/blob/main/README_zh.md)__
 
-![Launcher](https://github.com/1767523953/MiuiHome/blob/main/Pic/Launcher.png)
+![Launcher](https://github.com/1767523953/MiuiHome/blob/main/Pic/MiuiHome.png)
 
 Hook for MIUI Launcher - Xposed
 
-[![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml) [![Stars](https://img.shields.io/github/stars/1767523953/MiuiHome?label=stars)](https://github.com/1767523953/MiuiHome) [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.yuk.miuihome/total)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases) [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.yuk.miuihome?label=release)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases/latest) [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/MiuiHome_Xposed)
+[![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml) [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.yuk.miuihome/total)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases) [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.yuk.miuihome?label=release)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases/latest) [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/MiuiHome_Xposed)
 
 ## How to use
 
@@ -61,13 +61,13 @@ and if you want to translate it into a new language, please place it in the appr
 
 ## Credits
 
-- [androidx.annotation](https://android.googlesource.com/platform/frameworks/support/+/androidx-master-dev/annotation/annotation)
+- [androidx](https://android.googlesource.com/platform/frameworks/support)
 - [AppCenter](https://github.com/microsoft/appcenter)
-- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming/blob/master/LICENSE)
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)
 - [CustoMIUIzer](https://code.highspec.ru/Mikanoshi/CustoMIUIzer)
 - [FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk)
 - [LSPosed](https://github.com/LSPosed/LSPosed)
-- [MiDock](https://github.com/lamprose/MIDock)
+- [MIDock](https://github.com/lamprose/MIDock)
 - [MIUIDock](https://github.com/ouhoukyo/MIUIDock)
 - [MIUltra](https://github.com/lamprose/MIUltra)
 - [XposedBridge](https://github.com/rovo89/XposedBridge)
