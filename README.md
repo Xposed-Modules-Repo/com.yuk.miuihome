@@ -1,12 +1,12 @@
 # MiuiHome
 
-__English 丨 [简体中文](https://github.com/1767523953/MiuiHome/blob/main/README_zh.md)__
+__English 丨 [简体中文](https://github.com/qqlittleice/MiuiHome/blob/main/README_zh.md)__
 
-![Launcher](https://github.com/1767523953/MiuiHome/blob/main/Pic/MiuiHome.png)
+![Launcher](https://github.com/qqlittleice/MiuiHome/blob/main/Pic/MiuiHome.png)
 
 Hook for MIUI Launcher - Xposed
 
-[![Android CI](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml/badge.svg)](https://github.com/1767523953/MiuiHome/actions/workflows/main.yml) [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.yuk.miuihome/total)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases) [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.yuk.miuihome?label=release)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases/latest) [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/MiuiHome_Xposed)
+[![Android CI](https://github.com/qqlittleice/MiuiHome/actions/workflows/android.yml/badge.svg)](https://github.com/qqlittleice/MiuiHome/actions/workflows/android.yml) [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.yuk.miuihome/total)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases) [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.yuk.miuihome?label=release)](https://github.com/Xposed-Modules-Repo/com.yuk.miuihome/releases/latest) [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/MiuiHome_Xposed)
 
 ## How to use
 
@@ -18,7 +18,7 @@ __Module settings are not in the APP attached to this software!!! Please go to S
 
 __Old：[YuKongA/MiuiHome](https://github.com/YuKongA/MiuiHome)__
 
-__Now：[1767523953/MiuiHome](https://github.com/1767523953/MiuiHome)__
+__Now：[qqlittleice/MiuiHome](https://github.com/qqlittleice/MiuiHome)__
 
 ## Module Features
 
@@ -74,7 +74,7 @@ and if you want to translate it into a new language, please place it in the appr
 
 ## Screenshot
 
-![Screenshot](https://github.com/1767523953/MiuiHome/blob/main/Pic/Screenshot.png)
+![Screenshot](https://github.com/qqlittleice/MiuiHome/blob/main/Pic/Screenshot.png)
 
 ## License
 
@@ -82,4 +82,4 @@ and if you want to translate it into a new language, please place it in the appr
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/1767523953/MiuiHome.svg)](https://starchart.cc/1767523953/MiuiHome)
+[![Stargazers over time](https://starchart.cc/qqlittleice/MiuiHome.svg)](https://starchart.cc/qqlittleice/MiuiHome)
